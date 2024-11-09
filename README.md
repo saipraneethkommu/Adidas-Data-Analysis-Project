@@ -94,5 +94,5 @@ Feel free to fork this repository and submit a pull request if you have any impr
 ### 📬 Contact
 For any questions or collaborations, feel free to reach out to me!
 
-- **Email**: saipraneethkommu@example.com 📧
+- **Email**: saipraneethkommu@gmail.com 📧
 - **LinkedIn**: [Praneeth LinkedIn](https://www.linkedin.com/in/saipraneethkommu/) 🔗
